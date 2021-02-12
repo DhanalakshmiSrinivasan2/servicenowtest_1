@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_releasedate" label="releasedate" language="en" table="x_snc_rott_pott_gamesimport">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_releasedate</element>
+            <help/>
+            <hint/>
+            <label>releasedate</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_gamesimport</name>
+            <plural>releasedates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 13:21:40</sys_created_on>
+            <sys_id>19c22ba7dbece090ef323967f496196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>releasedate</sys_name>
+            <sys_package display_value="Rott Pott" source="x_snc_rott_pott">7f021b27dbace090ef323967f49619cb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rott Pott">7f021b27dbace090ef323967f49619cb</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_rott_pott_gamesimport_u_releasedate_en</sys_update_name>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 13:21:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

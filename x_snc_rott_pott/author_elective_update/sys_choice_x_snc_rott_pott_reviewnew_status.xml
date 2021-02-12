@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_snc_rott_pott_reviewnew" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_snc_rott_pott_reviewnew</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 13:12:16</sys_created_on>
+            <sys_id>7390ebe3dbece090ef323967f49619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="Rott Pott" source="x_snc_rott_pott">7f021b27dbace090ef323967f49619cb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rott Pott">7f021b27dbace090ef323967f49619cb</sys_scope>
+            <sys_update_name>sys_choice_x_snc_rott_pott_reviewnew_status</sys_update_name>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 13:12:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Yet Requested</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_reviewnew</name>
+            <sequence>0</sequence>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 13:12:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f102fe3dbece090ef323967f49619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 13:12:16</sys_updated_on>
+            <value>Not Yet Requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_reviewnew</name>
+            <sequence>1</sequence>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 13:12:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86a06fe3dbece090ef323967f4961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 13:12:52</sys_updated_on>
+            <value>Requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_reviewnew</name>
+            <sequence>2</sequence>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 13:13:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cac0e327dbece090ef323967f4961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 13:13:17</sys_updated_on>
+            <value>Approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_reviewnew</name>
+            <sequence>3</sequence>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 13:13:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67d02b27dbece090ef323967f49619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 13:13:40</sys_updated_on>
+            <value>Rejected</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

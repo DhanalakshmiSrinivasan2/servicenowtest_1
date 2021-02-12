@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Rott Pott">b5c21b67dbace090ef323967f4961931</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_rott_pott_gamesnew</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>451017</sys_created_by>
+        <sys_created_on>2020-11-24 12:11:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c6c21b67dbace090ef323967f4961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rott Pott" source="x_snc_rott_pott">7f021b27dbace090ef323967f49619cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rott Pott">7f021b27dbace090ef323967f49619cb</sys_scope>
+        <sys_update_name>sys_app_module_c6c21b67dbace090ef323967f4961937</sys_update_name>
+        <sys_updated_by>451017</sys_updated_by>
+        <sys_updated_on>2020-11-24 12:11:48</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rott Pott">7f021b27dbace090ef323967f49619cb</application>
+        <file_path/>
+        <instance_id>59031f1cdbd154d4566750b6f4961925</instance_id>
+        <instance_name>cognizantwfdemo</instance_name>
+        <name>sys_app_module_c6c21b67dbace090ef323967f4961937</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Rott Pott">b5c21b67dbace090ef323967f4961931</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_rott_pott_gamesnew</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>451017</sys_created_by><sys_created_on>2020-11-24 12:11:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c6c21b67dbace090ef323967f4961937</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Rott Pott" source="x_snc_rott_pott">7f021b27dbace090ef323967f49619cb</sys_package><sys_policy/><sys_scope display_value="Rott Pott">7f021b27dbace090ef323967f49619cb</sys_scope><sys_update_name>sys_app_module_c6c21b67dbace090ef323967f4961937</sys_update_name><sys_updated_by>451017</sys_updated_by><sys_updated_on>2020-11-24 12:11:48</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1804415194</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>bf021b27dbace090ef323967f49619cd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>451017</sys_created_by>
+        <sys_created_on>2020-11-24 12:11:48</sys_created_on>
+        <sys_id>02c21b67dbace090ef323967f4961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175fa2ac55f0000001</sys_recorded_at>
+        <sys_updated_by>451017</sys_updated_by>
+        <sys_updated_on>2020-11-24 12:11:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>0ac21b6736ace0900af7d4a19916f438</update_guid>
+        <update_guid_history>0ac21b6736ace0900af7d4a19916f438:1804415194</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">c2a31ba7dbace090ef323967f496198c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>451017</sys_created_by>
+        <sys_created_on>2020-11-24 12:15:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>7a37eadd520b4670909d98ef07ad3900</sys_id>
+        <sys_metadata>c6c21b67dbace090ef323967f4961937</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Rott Pott" source="x_snc_rott_pott">7f021b27dbace090ef323967f49619cb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rott Pott">7f021b27dbace090ef323967f49619cb</sys_scope>
+        <sys_scope_delete display_value="">7bde3445d2bb46f8886712def7e986c4</sys_scope_delete>
+        <sys_update_name>sys_app_module_c6c21b67dbace090ef323967f4961937</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c6c21b67dbace090ef323967f4961937">02c21b67dbace090ef323967f4961939</sys_update_version>
+        <sys_updated_by>451017</sys_updated_by>
+        <sys_updated_on>2020-11-24 12:15:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

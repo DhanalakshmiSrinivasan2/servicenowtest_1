@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="genre" table="x_snc_rott_pott_gamesnew" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>genre</element>
+            <name>x_snc_rott_pott_gamesnew</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 12:22:56</sys_created_on>
+            <sys_id>1d55932bdbace090ef323967f4961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>genre</sys_name>
+            <sys_package display_value="Rott Pott" source="x_snc_rott_pott">7f021b27dbace090ef323967f49619cb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rott Pott">7f021b27dbace090ef323967f49619cb</sys_scope>
+            <sys_update_name>sys_choice_x_snc_rott_pott_gamesnew_genre</sys_update_name>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 12:22:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sports</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_gamesnew</name>
+            <sequence/>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 12:25:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20e5536bdbace090ef323967f49619de</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 12:26:06</sys_updated_on>
+            <value>Sports</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FPS</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_gamesnew</name>
+            <sequence>0</sequence>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 12:22:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8215d32bdbace090ef323967f4961914</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 12:23:11</sys_updated_on>
+            <value>FPS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Role-Playing</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_gamesnew</name>
+            <sequence>0</sequence>
+            <sys_created_by>206703</sys_created_by>
+            <sys_created_on>2021-01-19 05:24:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c99ec26ddb31a890ef323967f49619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>206703</sys_updated_by>
+            <sys_updated_on>2021-01-19 05:24:28</sys_updated_on>
+            <value>Role-Playing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Puzzle</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_gamesnew</name>
+            <sequence>1</sequence>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 12:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d955132bdbace090ef323967f49619ac</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 12:23:32</sys_updated_on>
+            <value>Puzzle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Role Playing</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_gamesnew</name>
+            <sequence>2</sequence>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 12:23:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4365d72bdbace090ef323967f4961996</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 12:24:01</sys_updated_on>
+            <value>Role Playing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Racing</label>
+            <language>en</language>
+            <name>x_snc_rott_pott_gamesnew</name>
+            <sequence>3</sequence>
+            <sys_created_by>451017</sys_created_by>
+            <sys_created_on>2020-11-24 12:24:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76a55f2bdbace090ef323967f496198c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>451017</sys_updated_by>
+            <sys_updated_on>2020-11-24 12:25:09</sys_updated_on>
+            <value>Racing</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
